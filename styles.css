@@ -1,0 +1,53 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #ff5733;
+    color: white;
+    padding: 20px;
+    font-size: 24px;
+}
+
+h1, h2 {
+    font-family: 'Georgia', serif;
+}
+
+.intro img {
+    width: 200px;
+    margin: 20px 0;
+}
+
+.facts ul {
+    list-style: none;
+    padding: 0;
+}
+
+.facts li {
+    background-color: #ffcc00;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.game input, .game button {
+    padding: 10px;
+    margin-top: 10px;
+}
+
+button {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
